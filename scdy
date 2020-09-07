@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        body {background-color:	#181818;color:lemonchiffon;}
+        h1 {text-align:center;color:tan;}
+        p {text-indent:50px;font-size:30px;color:burlywood}
+    </style>
+    <meta charset="UTF-8">
+    <title>市场调研</title>
+</head>
+<body>
+<h1>市场调研</h1>
+<h2>
+    <ul class="d">
+        <li >服装风格倾向（工装、机能、未知、其它--）</li>
+        <li>着装（大部分出门）时间段</li>
+        <li>服装风格倾向（工装、机能、未知、其它--）</li>
+        <li>着装（大部分出门）时间段</li>
+        <li>着装场合</li>
+        <li>最爱好的单品</li>
+        <li>年龄</li>
+        <li>年级</li>
+        <li>最爱好的颜色</li>
+        <li>希望另一半是什么样的（阳光风、冷酷风、颓丧风、其它---）</li>
+        <li>性格</li>
+        <li>最喜欢品牌</li>
+        <li>身高体重</li>
+    </ul>
+</h2>
+<p>招聘兼职男/女模特，男士身高178cm（包含）或以上，女士身高170cm（包含）或以上，身材良好，颜值佳，有责任心，工作态度认真，工作时间极短，工资按工时决定（面议）。</p>
+</body>
+</html>
